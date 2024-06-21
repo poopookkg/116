@@ -1,0 +1,15 @@
+body{
+    background-color: orange;
+    color: red;
+}
+#butt1{
+    background-color: darkgreen;
+    color:yellow;
+}
+
+Canvas {
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
